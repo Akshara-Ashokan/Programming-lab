@@ -1,3 +1,4 @@
+"""Write a program to calculate the salary of an employee given his basic pay (to be entered by the user) . HRA = 10 percent of the basic pay, TA = 5 percent of the basic pay."""
 name=input("enter name of employee:")
 num=input("employee id:")
 desg=input("designaion:")
