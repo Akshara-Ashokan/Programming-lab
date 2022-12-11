@@ -1,3 +1,4 @@
+"""Write a Python program to perform arithmetic operations on two integer numbers."""
 a=int(input("enter 1st no:"))
 b=int(input("2nd no:"))
 print("sum=",a+b)
